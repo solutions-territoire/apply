@@ -1,24 +1,9 @@
-# README
+# Test de candidature
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Vous souhaitez rejoindre l'équipe de Mon Territoire ?  
+Ou vous avez tout simplement envie de vous frotter à un petit exercice ?
 
-Things you may want to cover:
+Clonez ce repository, lancez les tests et faites les passer en vert !   
+Une seule règle : **on ne touche pas au dossier `spec`**, sinon c'est de la triche !
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Envoyez-nous votre réponse à [cto@mon-territoire.fr](mailto:cto@mon-territoire.fr) et nous vous recontacterons très vite.  
