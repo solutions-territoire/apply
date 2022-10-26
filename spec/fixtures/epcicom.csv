@@ -1,0 +1,45 @@
+dep_epci;siren_epci;nom_complet;form_epci;fisc_epci;dep_com;insee;siren_com;nom_com;pop_total
+33;243301504;CC du Bassin d'Arcachon Nord Atlantique;CC;FA;33;33005;213300056;Andernos-les-Bains;11926
+33;243301504;CC du Bassin d'Arcachon Nord Atlantique;CC;FA;33;33011;213300114;Arès;5915
+33;243301504;CC du Bassin d'Arcachon Nord Atlantique;CC;FA;33;33019;213300197;Audenge;6998
+33;243301504;CC du Bassin d'Arcachon Nord Atlantique;CC;FA;33;33051;213300510;Biganos;10114
+33;243301504;CC du Bassin d'Arcachon Nord Atlantique;CC;FA;33;33229;213302292;Lanton;6675
+33;243301504;CC du Bassin d'Arcachon Nord Atlantique;CC;FA;33;33236;213302367;Lège-Cap-Ferret;8323
+33;243301504;CC du Bassin d'Arcachon Nord Atlantique;CC;FA;33;33284;213302847;Mios;8372
+33;243301504;CC du Bassin d'Arcachon Nord Atlantique;CC;FA;33;33555;213305550;Marcheprime;4727
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34022;213400229;Baillargues;6809
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34027;213400278;Beaulieu;1701
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34057;213400575;Castelnau-le-Lez;18233
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34058;213400583;Castries;6054
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34077;213400773;Clapiers;5464
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34087;213400872;Cournonsec;3000
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34088;213400880;Cournonterral;5879
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34090;213400906;Le Crès;8809
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34095;213400955;Fabrègues;6408
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34116;213401169;Grabels;7377
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34120;213401201;Jacou;6232
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34123;213401235;Juvignac;8180
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34129;213401292;Lattes;16020
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34134;213401342;Lavérune;2845
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34164;213401649;Montaud;980
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34169;213401698;Montferrier-sur-Lez;3679
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34172;213401722;Montpellier;276054
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34179;213401797;Murviel-lès-Montpellier;1923
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34198;213401987;Pérols;9071
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34202;213402027;Pignan;6621
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34217;213402175;Prades-le-Lez;4809
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34227;213402274;Restinclières;1665
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34244;213402449;Saint-Brès;2707
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34249;213402498;Saint-Drézéry;2317
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34256;213402563;Saint-Geniès-des-Mourgues;1881
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34259;213402597;Saint-Georges-d'Orques;5411
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34270;213402704;Saint-Jean-de-Védas;8807
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34295;213402951;Saussan;1491
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34307;213403074;Sussargues;2705
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34327;213403272;Vendargues;6271
+34;243400017;Montpellier Méditerranée Métropole;METRO;FPU;34;34337;213403371;Villeneuve-lès-Maguelone;9623
+64;246400030;CA Agglomération Côte Basque Adour;CA;FPU;64;64024;216400242;Anglet;40547
+64;246400030;CA Agglomération Côte Basque Adour;CA;FPU;64;64102;216401026;Bayonne;48873
+64;246400030;CA Agglomération Côte Basque Adour;CA;FPU;64;64122;216401224;Biarritz;25781
+64;246400030;CA Agglomération Côte Basque Adour;CA;FPU;64;64125;216401257;Bidart;6724
+64;246400030;CA Agglomération Côte Basque Adour;CA;FPU;64;64140;216401406;Boucau;7983
